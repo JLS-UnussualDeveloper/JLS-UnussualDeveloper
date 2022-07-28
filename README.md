@@ -1,4 +1,4 @@
-## Olá seja bem vidno ao meu perfil 😁
+## Olá seja bem-vindo ao meu perfil 😁
 
  <div>
    <a href="https://github.com/JLS-UnussualDeveloper">
